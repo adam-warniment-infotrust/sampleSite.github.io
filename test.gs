@@ -1,1 +1,3 @@
-Logger.log("hey from git");
+function runIt(){
+  Logger.log("hey from git");
+}
