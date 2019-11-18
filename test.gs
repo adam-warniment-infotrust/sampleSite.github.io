@@ -1,3 +1,1 @@
-function testLib(){
-  Logger.log("hey rom git");
-}
+Logger.log("hey from git");
